@@ -1,1 +1,1 @@
-# declarando-vari-veis
+# declarando-variveis
